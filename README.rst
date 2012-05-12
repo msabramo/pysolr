@@ -2,7 +2,7 @@
 pysolr
 ======
 
-``pysolr`` is a lightweight Python wrapper for Apache Solr. It provides an
+``pysolr`` is a lightweight Python wrapper for `Apache Solr`_. It provides an
 interface that queries the server and returns results based on the query.
 
 
@@ -38,3 +38,6 @@ LICENSE
 =======
 
 ``pysolr`` is licensed under the New BSD license.
+
+
+.. _Apache Solr
